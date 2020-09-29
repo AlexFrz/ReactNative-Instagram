@@ -1,0 +1,12 @@
+{
+  "name": "InstagramClone",
+  "displayName": "InstagramClone",
+  "expo": {
+    "name": "InstagramClone",
+    "slug": "InstagramClone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
